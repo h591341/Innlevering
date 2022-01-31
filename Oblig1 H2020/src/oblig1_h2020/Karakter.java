@@ -49,7 +49,7 @@ public class Karakter {
 					}
 		
 				}
-				showMessageDialog(null, "Studenten fikk karakteren " + karakter);
+				showMessageDialog(null, "Studenten fikk karakteren: " + karakter);
 		
 			}
 		}
